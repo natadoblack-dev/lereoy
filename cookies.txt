@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+leroymerlim.shop	TRUE	/	FALSE	1999999999	_tracking_consent	3.AMPS_BRSP_f_f_laOwCN2rT7i7VSb9yXNBAA
+leroymerlim.shop	TRUE	/	FALSE	1999999999	_landing_page	%2F
+leroymerlim.shop	TRUE	/	FALSE	1999999999	cart	hWN3KIy1R0zOnfggZMxMhZNy%3Fkey%3Dd5d321e3afe00fa388b28d2223884401
+leroymerlim.shop	TRUE	/	FALSE	1999999999	cart_currency	BRL
+leroymerlim.shop	TRUE	/	FALSE	1999999999	_shopify_essential	:AZl5AU3qAAEA4xVv4V5QRdaxlehOJXcNN8KPsCzmWLfahy1f_iwSgxRS-A9jOp9ibS2KTtTXlNcyu2pg-rrvfAOw_KntxFbo1X2L8YSTEOQYRceRAMxOnQHnzVzLkEBVRSZYOSkkq0BbKw8F82WZHG2I2hfCJIJAKOsbBDadDFVSDaTnpPLNUjskqD-HizGzQvgbS6r_4M0e:
+leroymerlim.shop	TRUE	/	FALSE	1999999999	Priority	High
+leroymerlim.shop	TRUE	/	FALSE	1999999999	localization	BR
+leroymerlim.shop	TRUE	/	FALSE	1999999999	_shopify_y	a444e4a1-8369-486d-8b39-e58bfa3b103f
+leroymerlim.shop	TRUE	/	FALSE	1999999999	_shopify_s	90fc02a0-3ae1-40df-96f0-31d192587b83
+leroymerlim.shop	TRUE	/	FALSE	1999999999	SameSite	Lax
+

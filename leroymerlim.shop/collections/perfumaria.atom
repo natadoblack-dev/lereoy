@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://leroymerlim.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://leroymerlim.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://leroymerlim.shop/collections/perfumaria.atom"/>
+  <title>Leroy Merlin</title>
+  <updated>2025-09-20T18:58:25-03:00</updated>
+  <author>
+    <name>Leroy Merlin</name>
+  </author>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334872434</id>
+    <published>2025-09-20T18:58:25-03:00</published>
+    <updated>2025-09-20T18:58:25-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/spa-inflavel-795l-com-bomba-110v-e-120-jatos-purespa-jet-bubble-deluxe-intex"/>
+    <title>Spa Inflável 795L com Bomba 110V e 120 Jatos PureSpa Jet&amp;Bubble Deluxe Intex</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/spa_inflavel_redondo_purespa_bubbles_795l_127v_110v__90660710_5e24_600x600_5c78a1ca-1b42-4f18-a31c-9f675a089603.jpg?v=1758405455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            289.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Spa Inflável</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Volume</strong></th>
+<td class="p-2.5">795,00 L</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Pessoas</strong></th>
+<td class="p-2.5">4 pessoa(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Contém Jato Bolhas</strong></th>
+<td class="p-2.5">Com Jato Bolhas</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Jatos de Ar</strong></th>
+<td class="p-2.5">120</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">PureSPA Bubbles</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Intex</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Filtro|Bomba</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material do Filtro|Bomba</strong></th>
+<td class="p-2.5">Plástico</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica do Filtro|Bomba</strong></th>
+<td class="p-2.5">127V (110V)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Aquecimento da água</strong></th>
+<td class="p-2.5">40 ºC</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Filtragem</strong></th>
+<td class="p-2.5">1741 L/h</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Capa</strong></th>
+<td class="p-2.5">Com Capa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Válvula</strong></th>
+<td class="p-2.5">com Válvula</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Válvula Acompanha Cesta</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Bege</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Bege</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Plástico</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">PVC</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Redondo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Área de Uso</strong></th>
+<td class="p-2.5">3,50 m²</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">71,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">196,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">196,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão</strong></th>
+<td class="p-2.5">71x196x196 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Montagem</strong></th>
+<td class="p-2.5">Desmontado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tempo Estimado de Montagem</strong></th>
+<td class="p-2.5">60 min</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Instruções de Montagem</strong></th>
+<td class="p-2.5">Acompanha o produto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Complexidade de Montagem</strong></th>
+<td class="p-2.5">Média: pode ser montada por mais de uma pessoa leiga</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">49,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">Garantia apenas para defeito de fabricação, não cobre mau uso.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334872434</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">289.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334839666</id>
+    <published>2025-09-20T18:56:38-03:00</published>
+    <updated>2025-09-20T18:56:38-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/churrasqueira-portatil-a-carvao-23x35cm-table-grill-preto-naterial"/>
+    <title>Churrasqueira Portátil a Carvão 23x35cm Table Grill Preto Naterial</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/churrasqueira_de_mesa_a_carvao_preto_table_grill_91699174_e79b_600x600_b5a8c348-8aa1-4115-8107-306126eb3135.jpg?v=1758405370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            189.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Churrasqueira Portátil</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipos de Churrasqueiras</strong></th>
+<td class="p-2.5">De Mesa, Grelha e Portátil</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado da Churrasqueira</strong></th>
+<td class="p-2.5">Uso interno e Externo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação da Churrasqueira</strong></th>
+<td class="p-2.5">Carvão</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">23,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">35,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Profundidade</strong></th>
+<td class="p-2.5">35,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Grelha de Churrasqueira</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Grelha de Churrasqueira</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Espetos</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Grill</strong></th>
+<td class="p-2.5">sem Grill</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Tampa</strong></th>
+<td class="p-2.5">sem Tampa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Termômetro</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Controle de Temperatura</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Rodas</strong></th>
+<td class="p-2.5">sem Rodas</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Alças</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fogão Lateral</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Aço Inox</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Table Grill</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Naterial</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Instalação</strong></th>
+<td class="p-2.5">Portátil</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Montagem</strong></th>
+<td class="p-2.5">Montado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">3,70 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">Central de Atendimento Leroy Merlin. Telefones: 4007-1380 - Capitais / 0800-602-1380 - Demais regiões. Das 08h às 19h de segunda a sábado, exceto feriados.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334839666</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">189.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334806898</id>
+    <published>2025-09-20T18:55:16-03:00</published>
+    <updated>2025-09-20T18:55:16-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/churrasqueira-a-bafo-gas-com-4-queimadores-114x55cm-kenton-naterial"/>
+    <title>Churrasqueira a Bafo Gás com 4 Queimadores 114x55cm Kenton Naterial</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/churrasqueira_a_gas_kenton_4_queimadores_89739181_0002_600x600_fd17735e-2da8-4599-939e-0cef327c5948.jpg?v=1758405286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            554.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Churrasqueira Móvel</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipos de Churrasqueiras</strong></th>
+<td class="p-2.5">Bafo e Móvel</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado da Churrasqueira</strong></th>
+<td class="p-2.5">Uso Externo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação da Churrasqueira</strong></th>
+<td class="p-2.5">Gás</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Queimadores</strong></th>
+<td class="p-2.5">4 queimador(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">114,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">55,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Profundidade</strong></th>
+<td class="p-2.5">153,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Grelha de Churrasqueira</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura da Grelha</strong></th>
+<td class="p-2.5">48,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento da Grelha</strong></th>
+<td class="p-2.5">41,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Espetos</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Grill</strong></th>
+<td class="p-2.5">com Grill</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Tampa</strong></th>
+<td class="p-2.5">com Tampa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Tampa</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Tampa</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Termômetro</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Controle de Temperatura</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Rodas</strong></th>
+<td class="p-2.5">com Rodas</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Rodas</strong></th>
+<td class="p-2.5">4 roda(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Alças</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fogão Lateral</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Gás</strong></th>
+<td class="p-2.5">GLP</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Kenton</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Naterial</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Instalação</strong></th>
+<td class="p-2.5">Fixa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Montagem</strong></th>
+<td class="p-2.5">Desmontado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">39,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334806898</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">554.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334741362</id>
+    <published>2025-09-20T18:53:55-03:00</published>
+    <updated>2025-09-20T18:53:55-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/conjunto-para-jardim-mesa-cadeira-e-ombrelone-6-lugares-aco-marrom-capitolio-belice"/>
+    <title>Conjunto para Jardim Mesa, Cadeira e Ombrelone 6 Lugares Aço Marrom Capitólio Belice</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/conjunto_6_cad_c_mesa_e_ombrelone_belice_92290702_13b8_600x600_b0e2a64b-f8c0-49c2-aa1f-8daa14db200b.jpg?v=1758405197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            494.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Conjunto de Móveis para Jardim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Conjunto</strong></th>
+<td class="p-2.5">Mesa, Cadeira e Ombrelone</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Coleção Jardim</strong></th>
+<td class="p-2.5">Capitólio</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Importado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Marrom</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Marrom</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Lugares</strong></th>
+<td class="p-2.5">6 lugar(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado do Móvel</strong></th>
+<td class="p-2.5">Para Estar</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Áreas Indicadas</strong></th>
+<td class="p-2.5">Externas</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Estilo</strong></th>
+<td class="p-2.5">Atemporal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Peças</strong></th>
+<td class="p-2.5">9 peça(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Mesa</strong></th>
+<td class="p-2.5">com Mesa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material do Tampo da Mesa</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material do Tampo da Mesa</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Estrutura da Mesa</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Estrutura da Mesa</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor da Mesa</strong></th>
+<td class="p-2.5">Marrom</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade da Mesa</strong></th>
+<td class="p-2.5">Marrom</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Mesa Dobrável</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Furo para Ombrelone</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão da Mesa (AxLxC)</strong></th>
+<td class="p-2.5">150x90x71cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato da Mesa</strong></th>
+<td class="p-2.5">Retangular</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Banqueta</strong></th>
+<td class="p-2.5">sem Banqueta</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Cadeira</strong></th>
+<td class="p-2.5">com Cadeira</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material do Assento da Cadeira</strong></th>
+<td class="p-2.5">Tecido</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material do Assento da Cadeira</strong></th>
+<td class="p-2.5">Textilene</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Estrutura da Cadeira</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Estrutura da Cadeira</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Encosto da Cadeira</strong></th>
+<td class="p-2.5">Tecido</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Encosto da Cadeira</strong></th>
+<td class="p-2.5">Textilene</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cadeira Dobrável</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão da Cadeira (AxLxP)</strong></th>
+<td class="p-2.5">92x73x55cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Sofá</strong></th>
+<td class="p-2.5">sem Sofá</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Ombrelone</strong></th>
+<td class="p-2.5">com Ombrelone</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Cobertura do Ombrelone</strong></th>
+<td class="p-2.5">Tecido</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Estrutura do Ombrelone</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Estrutura do Ombrelone</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão do Ombrelone (AxLxP)</strong></th>
+<td class="p-2.5">200x200x220cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Montagem</strong></th>
+<td class="p-2.5">Desmontado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Instruções de Montagem</strong></th>
+<td class="p-2.5">Com manual de instrução</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Complexidade de Montagem</strong></th>
+<td class="p-2.5">Baixa: pode ser montado por uma pessoa leiga</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">03 meses de garantia</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Benefícios</strong></th>
+<td class="p-2.5">Ombrelone acompanha base para facilitar fixação</td>
+</tr>
+<tr class="bg-yellow-100 text-red-600">
+<th class="w-1/3 p-2.5 text-start"><strong>Atenção</strong></th>
+<td class="p-2.5">Produto não indicado para regiões com maresia e/ou contato direto com água.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334741362</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">494.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334446450</id>
+    <published>2025-09-20T18:51:53-03:00</published>
+    <updated>2025-09-20T18:51:53-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/churrasqueira-centaurus-a-bafo-carvao-108x112cm-beta-ii-naterial"/>
+    <title>Churrasqueira Centaurus a Bafo Carvão 108x112cm Beta II Naterial</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/churrasqueira_a_carvao_centaurus_naterial_92083446_777f_600x600_2eeef302-0705-4671-89cb-4177c35eff15.jpg?v=1758405057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            494.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Churrasqueira a Bafo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipos de Churrasqueiras</strong></th>
+<td class="p-2.5">Bafo e Móvel</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado da Churrasqueira</strong></th>
+<td class="p-2.5">Uso Externo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação da Churrasqueira</strong></th>
+<td class="p-2.5">Carvão</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">108,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">112,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Profundidade</strong></th>
+<td class="p-2.5">65,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão</strong></th>
+<td class="p-2.5">108x112x65 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Grelha de Churrasqueira</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Grelha de Churrasqueira</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura da Grelha</strong></th>
+<td class="p-2.5">28,30 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Espetos</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Grill</strong></th>
+<td class="p-2.5">sem Grill</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Tampa</strong></th>
+<td class="p-2.5">com Tampa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Tampa</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material da Tampa</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor da Tampa</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade da Tampa</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Termômetro</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Rodas</strong></th>
+<td class="p-2.5">com Rodas</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Rodas</strong></th>
+<td class="p-2.5">2 roda(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Alças</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Alça</strong></th>
+<td class="p-2.5">Externa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Alça</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fogão Lateral</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Centaurus Beta II</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Naterial</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Montagem</strong></th>
+<td class="p-2.5">Desmontado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">36 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334446450</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">494.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334249842</id>
+    <published>2025-09-20T18:46:15-03:00</published>
+    <updated>2025-09-20T18:46:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/escada-de-aluminio-bilateral-3-degraus-duplos-apolo-art-factory"/>
+    <title>Escada De Alumínio Bilateral 3 Degraus Duplos Apolo Art Factory</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/escada_de_aluminio_bilateral_3_degraus_duplos_apolo_art_facto_1567481588_2e1c_600x600_4ec0d2f9-fb90-45a4-8a69-10e04aa5365d.jpg?v=1758404749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Banqueta Escada</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Escada</strong></th>
+<td class="p-2.5">Doméstica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Degraus</strong></th>
+<td class="p-2.5">3 degrau(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Alumínio</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Peso</strong></th>
+<td class="p-2.5">120 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">3,10 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Bazar das Escadas</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Prateada</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">24 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334249842</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

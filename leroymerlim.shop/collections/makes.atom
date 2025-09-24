@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://leroymerlim.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://leroymerlim.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://leroymerlim.shop/collections/makes.atom"/>
+  <title>Leroy Merlin</title>
+  <updated>2025-09-20T18:10:12-03:00</updated>
+  <author>
+    <name>Leroy Merlin</name>
+  </author>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797332382066</id>
+    <published>2025-09-20T18:10:12-03:00</published>
+    <updated>2025-09-20T18:10:12-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/gerador-de-energia-a-gasolina-aberto-1-25-kva-bivolt-com-avr-tg1300cxr-toyama"/>
+    <title>Gerador de Energia a Gasolina Aberto 1,25 Kva Bivolt com AVR TG1300CXR Toyama</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/gerador_de_energia_gasolina_comum_1_05_kva_bivolt_90318676_9380_600x600_e685e5fa-49c0-491f-8c14-284c09de5c81.jpg?v=1758402568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            569.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Gerador de Energia</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado</strong></th>
+<td class="p-2.5">É ideal para ligar lâmpadas, geladeiras, freezers, ventiladores, televisores e entre outros.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Gerador</strong></th>
+<td class="p-2.5">Residencial</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato do Gerador</strong></th>
+<td class="p-2.5">Aberto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Toyama</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">TG1300CXR</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica de Saída</strong></th>
+<td class="p-2.5">Bivolt</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Autonomia</strong></th>
+<td class="p-2.5">6 h</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência Nominal Aparente em Kva</strong></th>
+<td class="p-2.5">1,05 Kva</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência Nominal Aparente em W</strong></th>
+<td class="p-2.5">1050 w</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência Máxima em kva</strong></th>
+<td class="p-2.5">1.25 kva</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência Máxima</strong></th>
+<td class="p-2.5">1250 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Rotação</strong></th>
+<td class="p-2.5">3600,00 rpm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ciclo do Motor</strong></th>
+<td class="p-2.5">4 Tempos</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Painel ATS</strong></th>
+<td class="p-2.5">sem Painel ATS</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cilindrada</strong></th>
+<td class="p-2.5">96 CC</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Frequência</strong></th>
+<td class="p-2.5">60 Hz</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Tanque</strong></th>
+<td class="p-2.5">6,00 L</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Tanque Óleo</strong></th>
+<td class="p-2.5">0,40 L</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Sistema de Partida</strong></th>
+<td class="p-2.5">Manual Retrátil</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Combustível</strong></th>
+<td class="p-2.5">Gasolina</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Fases</strong></th>
+<td class="p-2.5">Monofásico</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Capacitor de Voltagem</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Voltímetro</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Recursos Especiais do Gerador</strong></th>
+<td class="p-2.5">Alerta de Nível de Óleo e Chave Seletora de Tensão</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Controle de Tensão</strong></th>
+<td class="p-2.5">AVR</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Vermelho</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">38,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">37,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">47,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão</strong></th>
+<td class="p-2.5">38x37x47 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Ruído</strong></th>
+<td class="p-2.5">62 dB</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Refrigeração</strong></th>
+<td class="p-2.5">Refrigerado a Ar</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Contém na Embalagem</strong></th>
+<td class="p-2.5">1 Gerador</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">24,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Referência do Produto</strong></th>
+<td class="p-2.5">201-001</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">6 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">Apenas defeito de Fabricação</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797332382066</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">569.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797324124530</id>
+    <published>2025-09-20T16:36:42-03:00</published>
+    <updated>2025-09-20T16:36:42-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/jogo-de-soquetes-1-4-e-3-8-e-1-2-sextavados-172-pecas-gedore-red"/>
+    <title>Jogo de Soquetes 1/4&apos;&apos; e 3/8&apos;&apos; e 1/2&apos;&apos; Sextavados 172 Peças Gedore Red</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/jogo_de_soquetes_172_pecas_gedore_91975121_8536_600x600_9fe5d4d8-9201-4537-ab30-adcad130c770.jpg?v=1758396958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            239.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Jogo de Soquetes</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Gedore Red</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado</strong></th>
+<td class="p-2.5">Metal mecanica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Aço</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Gedore</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Encaixe</strong></th>
+<td class="p-2.5">Sextavado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Peças</strong></th>
+<td class="p-2.5">172 peça(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797324124530</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">239.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323927922</id>
+    <published>2025-09-20T16:33:02-03:00</published>
+    <updated>2025-09-20T16:33:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/maquina-solda-inversora-mig-sem-gas-timig150-220v-trato"/>
+    <title>Máquina Solda Inversora Mig Sem Gás Timig150 220v Trato</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/maquina_solda_inversora_mig_sem_gas_timig150_220v_trato_1571504598_f1cb_600x600_e2c1a882-f98a-4c95-87cc-5f08e6313107.jpg?v=1758396748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            229.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Inversora</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Trato</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Processo de Soldagem</strong></th>
+<td class="p-2.5">Todos os processos (Eletrodo, TIG, MIG/MAG)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">220V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade Elétrica Máxima</strong></th>
+<td class="p-2.5">150 A</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">4,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323927922</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">229.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323764082</id>
+    <published>2025-09-20T16:31:34-03:00</published>
+    <updated>2025-09-20T16:31:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/martelete-perfurador-sds-plus-820w-gbh-2-24-d-com-maleta-220v-bosch"/>
+    <title>Martelete Perfurador SDS Plus 820W GBH 2-24 D com Maleta 220V Bosch</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/martelete_sds_plus_820w_gbh_2_24_d_com_maleta_220v_bosch_89974934_7635_600x600_bc1f3bec-e9f5-46cc-a3d8-2b16317ab9fd.jpg?v=1758396646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            389.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Martelete Perfurador e Rompedor</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Bosch</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">GBH 2-24 D</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado</strong></th>
+<td class="p-2.5">Para romper e furar concreto, madeira e metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação</strong></th>
+<td class="p-2.5">Elétrica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">220V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">820 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Impacto</strong></th>
+<td class="p-2.5">Com Impacto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Força de Impacto</strong></th>
+<td class="p-2.5">2,70 J</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Impacto por Minuto</strong></th>
+<td class="p-2.5">5100 ipm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Encaixe</strong></th>
+<td class="p-2.5">Sds Plus</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Velocidade</strong></th>
+<td class="p-2.5">1300 rpm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Perfuração da Alvenaria</strong></th>
+<td class="p-2.5">24,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Perfuração da Madeira</strong></th>
+<td class="p-2.5">30,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Perfuração do Metal</strong></th>
+<td class="p-2.5">13,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Perfuração do Concreto</strong></th>
+<td class="p-2.5">24,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">2,80 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Maleta</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">24 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">Garantia apenas para defeito de fabricação, não cobre mal uso.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Referência do Produto</strong></th>
+<td class="p-2.5">06112A02E0-000</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323764082</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">389.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323698546</id>
+    <published>2025-09-20T16:29:41-03:00</published>
+    <updated>2025-09-20T16:29:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/parafusadeira-furadeira-21v-profissional-2-baterias-led-tpar21"/>
+    <title>Parafusadeira Furadeira 21v Profissional 2 Baterias Led Tpar21</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/parafusadeira_furadeira_21v_profissional_2_baterias_led_tpar21_1571569250_7de1_600x600_670e1359-dc11-4c00-80ea-82d2e88c5f2a.webp?v=1758396625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Furadeira e Parafusadeira</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Trato</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação</strong></th>
+<td class="p-2.5">Bateria</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">Ferramenta a Bateria</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência da Bateria</strong></th>
+<td class="p-2.5">21 V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">2,60 Kg</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323698546</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">49.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323567474</id>
+    <published>2025-09-20T16:23:59-03:00</published>
+    <updated>2025-09-20T16:23:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/lixadeira-de-parede-e-teto-750w-mlp750-220v-led-graos-menegotti"/>
+    <title>Lixadeira de Parede e Teto 750W MLP750 220V LED Grãos Menegotti</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/lixadeira_de_parede_e_teto_mlp750_led_graos_menegotti_91995106_dbc6_600x600_5a73c6b2-964d-4f35-8170-36c71df5a90a.jpg?v=1758396207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            279.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Lixadeira</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Menegotti</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">MLP750 LED</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado</strong></th>
+<td class="p-2.5">Projetada para lixar paredes de gesso, faces internas e externas de tetos e paredes, limpeza de resíduos de pisos, revestimentos de pintura, entre outras funções.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Lixadeira</strong></th>
+<td class="p-2.5">de Parede</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material a ser Trabalhado</strong></th>
+<td class="p-2.5">Alvenaria</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação</strong></th>
+<td class="p-2.5">Elétrica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">220V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">750 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo do Motor</strong></th>
+<td class="p-2.5">com Escovas de Carvão</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ferramenta Intercambiável</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Fixação da Lixa</strong></th>
+<td class="p-2.5">Velcro</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Contém na Embalagem</strong></th>
+<td class="p-2.5">Contém 1 Lixa de cada gramatura (80, 100, 120, 150, 180, 240), 1 certificado de garantia, 1 manual técnico, 1 manípulo auxiliar, 1 chave allen, 2 arruela de conexão, 2 escovas de carvão, 1 saco para poeira e 1 mangueira de sucção.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">4,10 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Empunhadura</strong></th>
+<td class="p-2.5">Com Empunhadura</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Coletor de Pó</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Referência do Produto</strong></th>
+<td class="p-2.5">MLP750 LED</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">6 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">O atendimento de garantia deve ser feito direto pela fabrica. Não autorizado a troca de produto pela loja.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323567474</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323403634</id>
+    <published>2025-09-20T16:20:49-03:00</published>
+    <updated>2025-09-20T16:20:49-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/furadeira-e-parafusadeira-bosch-com-impacto-a-bateria-com-carregador-e-maleta-18v-gsb-183-li"/>
+    <title>Furadeira e Parafusadeira Bosch com Impacto a Bateria com Carregador e Maleta 18V GSB 183-LI</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/furadeira_e_parafusadeira_bosch_a_bateria_18v_gsb_183_li_92266993_3c2f_600x600_66dd8dd6-0264-488e-adac-ecc51aa8f311.webp?v=1758396015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            139.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Furadeira e Parafusadeira</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Bosch</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">GSB 183-LI</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado</strong></th>
+<td class="p-2.5">Perfuração e parafusamentos em metal, alvenaria e madeira.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação</strong></th>
+<td class="p-2.5">Bateria</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo do Motor</strong></th>
+<td class="p-2.5">com Escovas de Carvão</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência da Bateria</strong></th>
+<td class="p-2.5">18 V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Bateria</strong></th>
+<td class="p-2.5">com Bateria</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Amperagem da Bateria</strong></th>
+<td class="p-2.5">2,00 Ah</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Carregador de Bateria</strong></th>
+<td class="p-2.5">com Carregador</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Bateria(s) na Embalagem</strong></th>
+<td class="p-2.5">1 bateria(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Mandril</strong></th>
+<td class="p-2.5">13,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Impacto</strong></th>
+<td class="p-2.5">Com Impacto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Impacto por Minuto</strong></th>
+<td class="p-2.5">24 ipm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Controle de Torque</strong></th>
+<td class="p-2.5">Com Controle de Torque</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Torque</strong></th>
+<td class="p-2.5">21,00 Nm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Torque Máximo</strong></th>
+<td class="p-2.5">60,00 Nm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Posições de Torque</strong></th>
+<td class="p-2.5">20 posição(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Rotação Máxima</strong></th>
+<td class="p-2.5">1650 rpm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Perfuração da Alvenaria</strong></th>
+<td class="p-2.5">10,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Perfuração da Madeira</strong></th>
+<td class="p-2.5">35,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Perfuração do Metal</strong></th>
+<td class="p-2.5">10,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade Máxima de Perfuração</strong></th>
+<td class="p-2.5">35,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Contém na Embalagem</strong></th>
+<td class="p-2.5">1 Furadeira de impacto GSB 183-LI, 1 bateria 18V de 2,0 Ah, 1 carregador bivolt GAL 18V-20, 1 manual de instruções da ferramenta, 1 manual de instruções do carregador</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">1,60 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Maleta</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Referência do Produto</strong></th>
+<td class="p-2.5">06019K91E3-000</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323403634</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">139.80</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://leroymerlim.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://leroymerlim.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://leroymerlim.shop/collections/body-splash.atom"/>
+  <title>Leroy Merlin</title>
+  <updated>2025-09-20T16:17:50-03:00</updated>
+  <author>
+    <name>Leroy Merlin</name>
+  </author>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323207026</id>
+    <published>2025-09-20T16:17:50-03:00</published>
+    <updated>2025-09-20T16:17:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/circulador-de-ar-50cm-127v-110v-cromado-tx-20f-equation"/>
+    <title>Circulador de Ar 50cm 127V (110V) Cromado TX-20F Equation</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/circulador_de_ar_50cm_127v__110v__cromado_equation_89860743_1b0d_600x600_0cb061ae-cc4a-4e31-a400-2db8135033bb.jpg?v=1758395827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            179.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Equation</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">TX-20F-127V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Cromado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Cinza</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Pás</strong></th>
+<td class="p-2.5">3 pás</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro</strong></th>
+<td class="p-2.5">50,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto Acompanha Embalagem</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Embalagem</strong></th>
+<td class="p-2.5">Caixa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">127V (110V)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">160 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Aço Inox</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Oscilação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Circulador de Ar</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Referência do Produto</strong></th>
+<td class="p-2.5">TX-20F-127V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado</strong></th>
+<td class="p-2.5">Residencial|Comercial</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">24 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Regulamentado pelo Inmetro</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Norma</strong></th>
+<td class="p-2.5">Compulsório</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Certificação do Inmetro</strong></th>
+<td class="p-2.5">BRA18/02445</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Registro</strong></th>
+<td class="p-2.5">BRA18/02445</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323207026</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">179.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323108722</id>
+    <published>2025-09-20T16:15:50-03:00</published>
+    <updated>2025-09-20T16:15:50-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/ar-condicionado-janela-10000-btus-frio-branco-127v-110v-ccb10fb-consul"/>
+    <title>Ar Condicionado Janela 10000 BTUs Frio Branco 127V (110V) CCB10FB Consul</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ar_condicionado_janela_10000_btus_frio_127v_92103816_a192_600x600_5cc6067b-5c93-4d60-a82a-7402178e0856.jpg?v=1758395678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Ar Condicionado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Ar Condicionado</strong></th>
+<td class="p-2.5">Janela</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ideal para Ambiente de até</strong></th>
+<td class="p-2.5">15,00 m²</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade Total de Ar</strong></th>
+<td class="p-2.5">10000 BTUs</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ciclo de Ar</strong></th>
+<td class="p-2.5">Frio</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Consul</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Linha</strong></th>
+<td class="p-2.5">CCB10FB</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">CCB10FB</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Fluído</strong></th>
+<td class="p-2.5">R410-A</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Eficiência</strong></th>
+<td class="p-2.5">A</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Consumo Atual de Energia</strong></th>
+<td class="p-2.5">20,20 kWh/ano</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Índice de Desempenho de Resfriamento Sazonal</strong></th>
+<td class="p-2.5">3,22 Wh/Wh</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Número do Registro</strong></th>
+<td class="p-2.5">003903/2012</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Resistência à Maresia</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Wi Fi</strong></th>
+<td class="p-2.5">sem Wi Fi</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">127V (110V)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Ruído do Conjunto</strong></th>
+<td class="p-2.5">40 - 50 decibéis</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão (LxPxA)</strong></th>
+<td class="p-2.5">33x48x48,2 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Função Timer</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Controle de temperatura</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Compressor</strong></th>
+<td class="p-2.5">Rotativo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Controle Remoto</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323108722</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">690.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797322420594</id>
+    <published>2025-09-20T16:13:26-03:00</published>
+    <updated>2025-09-20T16:13:26-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/ar-condicionado-split-inverter-inverter-frio-12000btus-220v-g-diamond-auto-inverter-gree"/>
+    <title>Ar Condicionado Split Inverter Inverter Frio 12000BTUs 220V G-Diamond Auto Inverter Gree</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ar_condicionado_frio_12000btus_220v_g_diamond_auto_inverter_3005853069_b3bd_600x600_7d738d7a-fb37-4046-ac3d-bfad8df71971.jpg?v=1758395566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Ar Condicionado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Ar Condicionado</strong></th>
+<td class="p-2.5">Split Inverter</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ideal para Ambiente de até</strong></th>
+<td class="p-2.5">20,00 m²</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade Total de Ar</strong></th>
+<td class="p-2.5">12000 BTUs</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ciclo de Ar</strong></th>
+<td class="p-2.5">Frio</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Gree</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Linha</strong></th>
+<td class="p-2.5">G-Diamond Auto Inverter</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">GWC12ACC-D6DNA1A/I</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Fluído</strong></th>
+<td class="p-2.5">R32</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Eficiência</strong></th>
+<td class="p-2.5">A</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Consumo Atual de Energia</strong></th>
+<td class="p-2.5">482,40 kWh/ano</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Índice de Desempenho de Resfriamento Sazonal</strong></th>
+<td class="p-2.5">6,02 Wh/Wh</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modo Espera</strong></th>
+<td class="p-2.5">1116,00 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Número do Registro</strong></th>
+<td class="p-2.5">006408/2014</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Resistência à Maresia</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de resistência à Maresia</strong></th>
+<td class="p-2.5">Alta</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Wi Fi</strong></th>
+<td class="p-2.5">com Wi Fi</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Aplicativo</strong></th>
+<td class="p-2.5">Gree+</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Disponível em</strong></th>
+<td class="p-2.5">Google Play</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Compatível com</strong></th>
+<td class="p-2.5">Amazon Alexa e Google Assistente</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">220V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Ruído do Conjunto</strong></th>
+<td class="p-2.5">40 - 50 decibéis</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Vazão do Ar</strong></th>
+<td class="p-2.5">390,00 m³/h</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão da Unidade Externa (LxAxP)</strong></th>
+<td class="p-2.5">42,5×42×54,5 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto da Unidade Externa</strong></th>
+<td class="p-2.5">20,50 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão da Unidade Interna (LxAxP)</strong></th>
+<td class="p-2.5">88,9×21,2×29,4 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto da Unidade Interna</strong></th>
+<td class="p-2.5">12,50 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Funções Ar Condicionado</strong></th>
+<td class="p-2.5">Auto Limpante, Desumidificação, Resfriar, Swing e Ventilação</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Compressor</strong></th>
+<td class="p-2.5">Inverter</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Compressor</strong></th>
+<td class="p-2.5">10 Anos</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material da Serpentina</strong></th>
+<td class="p-2.5">Serpentina de Cobre com camada isolante BlueFin</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">60 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">Compressor: 10 anos / Outras Peças: 5 ano</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Controle Remoto</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Referência do Produto</strong></th>
+<td class="p-2.5">GWC12ACC-D6DNA1A/I</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797322420594</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1280.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797322191218</id>
+    <published>2025-09-20T16:11:27-03:00</published>
+    <updated>2025-09-20T16:11:27-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/ar-condicionado-portatil-10500-btus-frio-branco-220v-hq-ap10500w2-hq"/>
+    <title>Ar Condicionado Portátil 10500 BTUs Frio Branco 220V HQ-AP10500W2 HQ</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ar_condicionado_portatil_10500_btus_frio_hq_ap10500w2_hq_92342964_1e39_600x600_0e0ac38d-df7d-4dbb-8bad-819453e59c26.jpg?v=1758395455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Ar Condicionado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Ar Condicionado</strong></th>
+<td class="p-2.5">Portátil</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ideal para Ambiente de até</strong></th>
+<td class="p-2.5">17,00 m²</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade Total de Ar</strong></th>
+<td class="p-2.5">10500 BTUs</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ciclo de Ar</strong></th>
+<td class="p-2.5">Frio</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">HQ</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">HQ-AP10500W2</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Fluído</strong></th>
+<td class="p-2.5">R32</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Eficiência</strong></th>
+<td class="p-2.5">C</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Consumo Atual de Energia</strong></th>
+<td class="p-2.5">400,00 kWh/ano</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Índice de Desempenho de Resfriamento Sazonal</strong></th>
+<td class="p-2.5">1200,00 Wh/Wh</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modo Espera</strong></th>
+<td class="p-2.5">0,10 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Resistência à Maresia</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de resistência à Maresia</strong></th>
+<td class="p-2.5">Baixa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Wi Fi</strong></th>
+<td class="p-2.5">sem Wi Fi</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Aplicativo</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">220V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Ruído do Conjunto</strong></th>
+<td class="p-2.5">40 - 50 decibéis</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência de Resfriamento</strong></th>
+<td class="p-2.5">1200W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Vazão do Ar</strong></th>
+<td class="p-2.5">290,00 m³/h</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão (LxPxA)</strong></th>
+<td class="p-2.5">24x25x78 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Funções Ar Condicionado</strong></th>
+<td class="p-2.5">Sleep e Timer</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Função Sleep</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Função Timer</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Função Turbo</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Filtro de proteção ativa</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Controle de temperatura</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Compressor</strong></th>
+<td class="p-2.5">Rotativo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">22,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Controle Remoto</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797322191218</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1490.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797322092914</id>
+    <published>2025-09-20T16:08:56-03:00</published>
+    <updated>2025-09-20T16:08:56-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/ventilador-de-mesa-arno-40cm-127v-110v-preto-e-azul-vb40"/>
+    <title>Ventilador de Mesa Arno 40cm 127V (110V) Preto e Azul VB40</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ventilador_arno_xtreme_force_breeze_mesa_40cm_vb40_127v_1570601022_64dc_600x600_4a391fdc-adb0-41c4-b363-1e12a1835086.jpg?v=1758395292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            74.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Ventilador</strong></th>
+<td class="p-2.5">Mesa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">50,10 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro</strong></th>
+<td class="p-2.5">40,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">127V (110V)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Arno</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Azul e Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Função Turbo</strong></th>
+<td class="p-2.5">com Turbo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Pás</strong></th>
+<td class="p-2.5">6 pás</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">VB40</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">126 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Ruído</strong></th>
+<td class="p-2.5">55 dB</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Oscilação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Repelente</strong></th>
+<td class="p-2.5">sem Repelente</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Controle</strong></th>
+<td class="p-2.5">3 Velocidades (Lenta, Média, Rápida)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Eficiência</strong></th>
+<td class="p-2.5">A</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Consumo de Energia do Ventilador</strong></th>
+<td class="p-2.5">3,84 kW/h/mês</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Eficiência Energética</strong></th>
+<td class="p-2.5">0,00 m³/s)/W*m</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Vazão</strong></th>
+<td class="p-2.5">1.41 m³/s</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro da Hélice</strong></th>
+<td class="p-2.5">40 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro da Grade</strong></th>
+<td class="p-2.5">49 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Número de Registro</strong></th>
+<td class="p-2.5">003363/2019</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797322092914</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">74.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797322027378</id>
+    <published>2025-09-20T16:06:48-03:00</published>
+    <updated>2025-09-20T16:06:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/ar-condicionado-split-lg-hi-wall-inverter-voice-ai-24-000-btu-h-frio-monofasico-branco-s3-q24k231b-220v"/>
+    <title>Ar Condicionado Split LG Hi Wall Inverter Voice +AI 24.000 BTU/h Frio Monofásico Branco S3-Q24K231B - 220V</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ar_condicionado_split_lg_hi_wall_inverter_voice__ai_24_000_bt_1571983872_5cfc_600x600_a9441a86-b931-4f8f-bd72-a0623911b0d4.jpg?v=1758395146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Ar Condicionado Split Inverter</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Ar Condicionado</strong></th>
+<td class="p-2.5">Split Inverter</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ideal para Ambiente de até</strong></th>
+<td class="p-2.5">40,00 m²</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade Total de Ar</strong></th>
+<td class="p-2.5">24 BTUs</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ciclo de Ar</strong></th>
+<td class="p-2.5">Frio</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">LG</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">PRINVHIW24F2LGA</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">220V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">12</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797322027378</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">1190.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797321830770</id>
+    <published>2025-09-20T16:02:57-03:00</published>
+    <updated>2025-09-20T16:02:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/ventilador-de-coluna-arno-40cm-127v-110v-chumbo-e-azul-ve98"/>
+    <title>Ventilador de Coluna Arno 40cm 127V (110V) Chumbo e Azul VE98</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ventilador_coluna_arno_40cm_127v__110v__chumbo_ve98_92333220_858b_600x600_3e632a55-8350-47db-8da9-3a949fd4866e.jpg?v=1758394745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Ventilador</strong></th>
+<td class="p-2.5">Coluna</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">152,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro</strong></th>
+<td class="p-2.5">40,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">127V (110V)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Arno</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Cinza</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Função Turbo</strong></th>
+<td class="p-2.5">com Turbo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Pás</strong></th>
+<td class="p-2.5">9 pás</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">VE98</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">160 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Ruído</strong></th>
+<td class="p-2.5">33.4 dB</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Oscilação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">6,89 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Repelente</strong></th>
+<td class="p-2.5">sem Repelente</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Controle Remoto</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Controle</strong></th>
+<td class="p-2.5">4 Velocidades</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Eficiência</strong></th>
+<td class="p-2.5">A</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Consumo de Energia do Ventilador</strong></th>
+<td class="p-2.5">4,14 kW/h/mês</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Eficiência Energética</strong></th>
+<td class="p-2.5">0,00 m³/s)/W*m</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Vazão</strong></th>
+<td class="p-2.5">1.34 m³/s</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro da Hélice</strong></th>
+<td class="p-2.5">40 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro da Grade</strong></th>
+<td class="p-2.5">40 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Número de Registro</strong></th>
+<td class="p-2.5">007852/2024</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ventilador_coluna_arno_40cm_127v__110v__chumbo_ve98_92333220_43b9_600x600_9dc8732d-e7b7-4cd4-ae4c-7be3a60fe2a4.jpg?v=1758394845" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ventilador_coluna_arno_40cm_127v__110v__chumbo_ve98_92333220_c166_600x600_04dcbd9c-6d07-4236-95d1-7371161b946c.jpg?v=1758394844" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ventilador_coluna_arno_40cm_127v__110v__chumbo_ve98_92333220_1502_600x600_e50e9396-14cc-4401-888f-44199f459ba7.jpg?v=1758394845" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ventilador_coluna_arno_40cm_127v__110v__chumbo_ve98_92333220_71c1_600x600_fef285ce-329a-4b78-9136-28ece5988d80.jpg?v=1758394845" alt=""></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/ventilador_coluna_arno_40cm_127v__110v__chumbo_ve98_92333220_d78d_600x600_2d27aaf5-7afc-45be-b1a7-1ea337bb4e51.jpg?v=1758394844" alt=""></p>
+<p><br></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797321830770</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

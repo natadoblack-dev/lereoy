@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://leroymerlim.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://leroymerlim.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://leroymerlim.shop/collections/hair.atom"/>
+  <title>Leroy Merlin</title>
+  <updated>2025-09-20T18:47:48-03:00</updated>
+  <author>
+    <name>Leroy Merlin</name>
+  </author>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334315378</id>
+    <published>2025-09-20T18:47:48-03:00</published>
+    <updated>2025-09-20T18:47:48-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/pistola-de-pintura-eletrica-pulverizador-de-tinta-bico-metal-paint-pro"/>
+    <title>Pistola De Pintura Eletrica Pulverizador De Tinta Bico Metal Paint Pro</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/pistola_de_pintura_eletrica_pulverizador_de_tinta_bico_metal_1568545012_cf67_600x600_38353062-c52b-4a5b-94f7-9e2e6873bebf.jpg?v=1758404841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Pistola de Pintura</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Intech Machine</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Uso</strong></th>
+<td class="p-2.5">Doméstico</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação</strong></th>
+<td class="p-2.5">Elétrica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">127V (110V)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">28,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">26,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Profundidade</strong></th>
+<td class="p-2.5">21,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">21,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">3,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Consumo de Ar em PCM</strong></th>
+<td class="p-2.5">0,52 PCM</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Pressão de Ar em psi</strong></th>
+<td class="p-2.5">5,00 psi</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334315378</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">69.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334249842</id>
+    <published>2025-09-20T18:46:15-03:00</published>
+    <updated>2025-09-20T18:46:15-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/escada-de-aluminio-bilateral-3-degraus-duplos-apolo-art-factory"/>
+    <title>Escada De Alumínio Bilateral 3 Degraus Duplos Apolo Art Factory</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/escada_de_aluminio_bilateral_3_degraus_duplos_apolo_art_facto_1567481588_2e1c_600x600_4ec0d2f9-fb90-45a4-8a69-10e04aa5365d.jpg?v=1758404749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            119.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Banqueta Escada</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Escada</strong></th>
+<td class="p-2.5">Doméstica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Quantidade de Degraus</strong></th>
+<td class="p-2.5">3 degrau(s)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material</strong></th>
+<td class="p-2.5">Metal</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material</strong></th>
+<td class="p-2.5">Alumínio</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade de Peso</strong></th>
+<td class="p-2.5">120 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">3,10 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Bazar das Escadas</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Prateada</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">24 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334249842</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">119.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797334086002</id>
+    <published>2025-09-20T18:43:47-03:00</published>
+    <updated>2025-09-20T18:43:47-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/lixadeira-roto-orbital-eletrica-profissional-madeira-lixa-trato-torb300r-300w-127v"/>
+    <title>Lixadeira Roto Orbital Elétrica Profissional Madeira Lixa Trato Torb300r 300w 127v</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/lixadeira_roto_orbital_eletrica_profissional_madeira_lixa_tra_1571659652_438b_600x600_cfa089c4-fd69-4689-8226-f25bb3592be4.jpg?v=1758404586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Lixadeira</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Trato</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">TORB300R</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Lixadeira</strong></th>
+<td class="p-2.5">Roto Orbital</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação</strong></th>
+<td class="p-2.5">Elétrica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">127V (110V)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">300 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">1,25 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797334086002</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">79.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797333987698</id>
+    <published>2025-09-20T18:42:02-03:00</published>
+    <updated>2025-09-20T18:42:02-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/kit-completo-aerografia-mini-compressor-ar-aerografo-0-3mm"/>
+    <title>Kit Completo Aerografia Mini Compressor Ar + Aerógrafo 0,3mm</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/kit_completo_aerografia_mini_compressor_ar___aerografo_0_3mm_1571420163_5752_600x600_decfbab2-1d44-4599-8555-2e9d06511765.webp?v=1758404656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            97.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">18 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Vazão</strong></th>
+<td class="p-2.5">2 ml/min</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Reservatório</strong></th>
+<td class="p-2.5">9 ml</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Trato</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">12,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">13,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">20,00 mm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">1,15 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797333987698</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">97.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797323567474</id>
+    <published>2025-09-20T16:23:59-03:00</published>
+    <updated>2025-09-20T16:23:59-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/lixadeira-de-parede-e-teto-750w-mlp750-220v-led-graos-menegotti"/>
+    <title>Lixadeira de Parede e Teto 750W MLP750 220V LED Grãos Menegotti</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/lixadeira_de_parede_e_teto_mlp750_led_graos_menegotti_91995106_dbc6_600x600_5a73c6b2-964d-4f35-8170-36c71df5a90a.jpg?v=1758396207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            279.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Produto</strong></th>
+<td class="p-2.5">Lixadeira</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Menegotti</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">MLP750 LED</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Uso Indicado</strong></th>
+<td class="p-2.5">Projetada para lixar paredes de gesso, faces internas e externas de tetos e paredes, limpeza de resíduos de pisos, revestimentos de pintura, entre outras funções.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Lixadeira</strong></th>
+<td class="p-2.5">de Parede</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material a ser Trabalhado</strong></th>
+<td class="p-2.5">Alvenaria</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Alimentação</strong></th>
+<td class="p-2.5">Elétrica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tensão Elétrica</strong></th>
+<td class="p-2.5">220V</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Potência</strong></th>
+<td class="p-2.5">750 W</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo do Motor</strong></th>
+<td class="p-2.5">com Escovas de Carvão</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Ferramenta Intercambiável</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Fixação da Lixa</strong></th>
+<td class="p-2.5">Velcro</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Contém na Embalagem</strong></th>
+<td class="p-2.5">Contém 1 Lixa de cada gramatura (80, 100, 120, 150, 180, 240), 1 certificado de garantia, 1 manual técnico, 1 manípulo auxiliar, 1 chave allen, 2 arruela de conexão, 2 escovas de carvão, 1 saco para poeira e 1 mangueira de sucção.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">4,10 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Empunhadura</strong></th>
+<td class="p-2.5">Com Empunhadura</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Coletor de Pó</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Referência do Produto</strong></th>
+<td class="p-2.5">MLP750 LED</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">6 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">O atendimento de garantia deve ser feito direto pela fabrica. Não autorizado a troca de produto pela loja.</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797323567474</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">279.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

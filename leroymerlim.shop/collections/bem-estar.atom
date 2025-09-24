@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://leroymerlim.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://leroymerlim.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://leroymerlim.shop/collections/bem-estar.atom"/>
+  <title>Leroy Merlin</title>
+  <updated>2025-09-20T18:25:19-03:00</updated>
+  <author>
+    <name>Leroy Merlin</name>
+  </author>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797333102962</id>
+    <published>2025-09-20T18:25:19-03:00</published>
+    <updated>2025-09-20T18:25:19-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/kit-vaso-sanitario-convencional-com-assento-branco-saida-vertical-vougan-docol"/>
+    <title>Kit Vaso Sanitário Convencional com Assento Branco Saída Vertical Vougan Docol</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/kit_vaso_sanitario_convencional_com_assento_vougan_docol_90711131_2e6c_600x600_f75d4757-c56c-49c8-964d-1bfa9a3c1a55.jpg?v=1758403492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Produto</strong></th>
+<td class="p-2.5">Vaso Sanitário Convencional para Descarga de Parede</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Vougan</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Docol</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Saída Vaso Sanitário</strong></th>
+<td class="p-2.5">Vertical</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Quadrado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Assento Sanitário</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão Assento Sanitário</strong></th>
+<td class="p-2.5">51,8X36,9</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Plástico</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Termofixo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Fechamento</strong></th>
+<td class="p-2.5">Fechamento Suave</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fixação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Conteúdo da Embalagem</strong></th>
+<td class="p-2.5">Vaso Sanitário + Kit de Instalação (Flexível e Anel de Vedação) + Assento Sanitário + Manual</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">Por defeito de fabricação</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Descarga 360º</strong></th>
+<td class="p-2.5">com Descarga 360°</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Jato Plus</strong></th>
+<td class="p-2.5">com Jato Plus</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Sifão</strong></th>
+<td class="p-2.5">Sifão Oculto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Qualidade</strong></th>
+<td class="p-2.5">Premium</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797333102962</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">690.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797333037426</id>
+    <published>2025-09-20T18:23:51-03:00</published>
+    <updated>2025-09-20T18:23:51-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/bacia-convencional-assento-pp-com-queda-amortecida-e-complementos-de-instalacao-boss-roca-i-incepa-branco"/>
+    <title>Bacia Convencional Assento Pp Com Queda Amortecida E Complementos De Instalação Boss Roca I Incepa Branco</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/bacia_convencional_assento_pp_com_queda_amortecida_e_compleme_1570448112_9159_600x600_7c38c17e-b3ad-4e46-b1af-729d2c922947.jpg?v=1758403400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            410.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Produto</strong></th>
+<td class="p-2.5">Vaso Sanitário Convencional para Descarga de Parede</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Boss</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Incepa</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Saída Vaso Sanitário</strong></th>
+<td class="p-2.5">Vertical</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Quadrado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Simples Acionamento</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">40,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">36,50 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">70,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Assento Sanitário</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Fechamento</strong></th>
+<td class="p-2.5">Fechamento Suave</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fixação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">28,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797333037426</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">410.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797332971890</id>
+    <published>2025-09-20T18:22:09-03:00</published>
+    <updated>2025-09-20T18:22:09-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/kit-vaso-sanitario-convencional-para-descarga-de-parede-com-assento-branco-vertical-lille-sensea"/>
+    <title>Kit Vaso Sanitário Convencional para Descarga de Parede com Assento Branco Vertical Lille Sensea</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/vaso_sanitario_convencional_descarga_de_parede_lyon_sensea_92327550_7826_600x600_1addd072-6776-4466-ac82-b920901bce0b.jpg?v=1758403336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            356.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Produto</strong></th>
+<td class="p-2.5">Vaso Sanitário Convencional para Descarga de Parede</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Lille</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Sensea</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Saída Vaso Sanitário</strong></th>
+<td class="p-2.5">Vertical</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Quadrado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">40,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">37,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Profundidade</strong></th>
+<td class="p-2.5">49,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão</strong></th>
+<td class="p-2.5">40x37x49 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Assento Sanitário</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão Assento Sanitário</strong></th>
+<td class="p-2.5">3,5x36x43</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Plástico</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Polipropileno</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Fechamento</strong></th>
+<td class="p-2.5">Fechamento Suave</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fixação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">23,50 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto na Embalagem</strong></th>
+<td class="p-2.5">25,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Conteúdo da Embalagem</strong></th>
+<td class="p-2.5">Bacia convencional; assento PP-SC; anel de vedação com guia; tubo de ligação e parafusos de fixação.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão da Embalagem</strong></th>
+<td class="p-2.5">42x42x51 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">12 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">A sifonagem da bacia Lille, especificamente, está garantida por 12 anos. Demais defeitos de fábrica, garantia de 1 ano.</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Descarga 360º</strong></th>
+<td class="p-2.5">sem Descarga 360°</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Jato Plus</strong></th>
+<td class="p-2.5">sem Jato Plus</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Sifão</strong></th>
+<td class="p-2.5">Sifão Oculto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Qualidade</strong></th>
+<td class="p-2.5">Standard</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797332971890</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">356.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797332840818</id>
+    <published>2025-09-20T18:20:34-03:00</published>
+    <updated>2025-09-20T18:20:34-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/vaso-sanitario-monobloco-preto-completo-caixa-acoplada-privada-modelo-umbra-tubrax"/>
+    <title>Vaso Sanitário Monobloco Preto Completo - Caixa Acoplada Privada Modelo Umbra Tubrax</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/vaso_sanitario_monobloco_preto_completo_caixa_acoplada_priv_1567377283_2331_600x600_79cfc609-bfb6-457b-9d86-4e1a4199c080.jpg?v=1758403212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            321.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Produto</strong></th>
+<td class="p-2.5">Vaso Sanitário Monobloco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Umbra (VAB0006)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Tubrax</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Saída Vaso Sanitário</strong></th>
+<td class="p-2.5">Vertical</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Redondo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Preto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Duplo Acionamento</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Posição do Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Botão Superior</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">3/6 L</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">77,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">35,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">55,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão</strong></th>
+<td class="p-2.5">77,2 x 55,6 x 35,5 cm cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Assento Sanitário</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Polipropileno</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">54,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Conteúdo da Embalagem</strong></th>
+<td class="p-2.5">1 vaso monobloco + 1 Assento + Mecanismo descarga</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797332840818</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">321.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797332742514</id>
+    <published>2025-09-20T18:18:01-03:00</published>
+    <updated>2025-09-20T18:18:01-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/vaso-sanitario-convencional-com-assento-branco-vitalis-tubrax"/>
+    <title>Vaso Sanitário Convencional com Assento Branco Vitalis Tubrax</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/vaso_sanitario_convencional_com_assento_branco_vitalis_tubrax_1571540498_0fc2_600x600_c4ba65e2-0cfc-4ee1-adbf-f47c4c7c87ef.jpg?v=1758403046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Produto</strong></th>
+<td class="p-2.5">Vaso Sanitário Convencional para Descarga de Parede</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Tubrax</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Saída Vaso Sanitário</strong></th>
+<td class="p-2.5">Vertical</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Redondo</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Duplo Acionamento</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">3/6 L</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">42,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">36,50 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">56,50 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Assento Sanitário</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Polipropileno</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Fechamento</strong></th>
+<td class="p-2.5">Fechamento Suave</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fixação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">27,70 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797332742514</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">269.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797332676978</id>
+    <published>2025-09-20T18:16:41-03:00</published>
+    <updated>2025-09-20T18:16:41-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/vaso-sanitario-monobloco-completo-caixa-acoplada-privada-diamante-tubrax"/>
+    <title>Vaso Sanitário Monobloco Completo - Caixa Acoplada Privada Diamante Tubrax</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/vaso_sanitario_monobloco_completo_caixa_acoplada_privada_di_1566805780_0132_600x600_3c329ade-43f5-4e10-892c-39ba7b5dd35a.webp?v=1758402962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            336.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Produto</strong></th>
+<td class="p-2.5">Vaso Sanitário Monobloco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Diamante</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Tubrax</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Saída Vaso Sanitário</strong></th>
+<td class="p-2.5">Vertical</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Reto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Duplo Acionamento</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Posição do Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Botão Superior</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">3/6 L</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">79,50 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">36,50 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">68,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Assento Sanitário</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Cerâmica</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Polipropileno</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fixação</strong></th>
+<td class="p-2.5">Não</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">55,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Conteúdo da Embalagem</strong></th>
+<td class="p-2.5">1 Vaso Monobloco + 1 sistema de assento com tampa antirruído + 1 Mecanismo de descarga + 1 anel de vedação</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">3 mes(es)</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797332676978</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">336.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://leroymerlim.shop/products/14797332545906</id>
+    <published>2025-09-20T18:14:57-03:00</published>
+    <updated>2025-09-20T18:14:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://leroymerlim.shop/products/vaso-sanitario-monobloco-branco-duplo-acionamento-3-6l-vertical-vittoria-luvia"/>
+    <title>Vaso Sanitário Monobloco Branco Duplo Acionamento 3/6L Vertical Vittoria Luvia</title>
+    <s:type></s:type>
+    <s:vendor>Minha loja</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0933/8450/7762/files/vaso_sanitario_monobloco_6l_vittoria_royal_92420601_4c14_600x600_a1656fcc-73fe-4b6b-bd05-373c639d16de.jpg?v=1758402864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Minha loja<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            339.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><table class="grow">
+<tbody>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Produto</strong></th>
+<td class="p-2.5">Vaso Sanitário Monobloco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Modelo</strong></th>
+<td class="p-2.5">Vittoria</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Marca</strong></th>
+<td class="p-2.5">Luvia</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Saída Vaso Sanitário</strong></th>
+<td class="p-2.5">Vertical</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Formato</strong></th>
+<td class="p-2.5">Curvado</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Cor</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tonalidade</strong></th>
+<td class="p-2.5">Branco</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Duplo Acionamento</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Posição do Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">Botão Superior</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Capacidade do Acionamento da Bacia Sanitária</strong></th>
+<td class="p-2.5">3/6 L</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Altura</strong></th>
+<td class="p-2.5">73,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Largura</strong></th>
+<td class="p-2.5">36,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Profundidade</strong></th>
+<td class="p-2.5">44,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Comprimento</strong></th>
+<td class="p-2.5">66,50 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Diâmetro</strong></th>
+<td class="p-2.5">5,60 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Espessura</strong></th>
+<td class="p-2.5">1,00 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão</strong></th>
+<td class="p-2.5">73x36x44 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Assento Sanitário</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão Assento Sanitário</strong></th>
+<td class="p-2.5">39,2x41,8x4,5</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Material do Assento Sanitário</strong></th>
+<td class="p-2.5">Plástico</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Fechamento</strong></th>
+<td class="p-2.5">Fechamento Suave</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Acompanha Fixação</strong></th>
+<td class="p-2.5">Sim</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto</strong></th>
+<td class="p-2.5">46,50 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Peso do Produto na Embalagem</strong></th>
+<td class="p-2.5">49,00 Kg</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Conteúdo da Embalagem</strong></th>
+<td class="p-2.5">1 Monobloco Sanitario</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Dimensão da Embalagem</strong></th>
+<td class="p-2.5">75.5X69X37 cm</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Garantia do Fabricante</strong></th>
+<td class="p-2.5">6 mes(es)</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Observações sobre a Garantia do Fabricante</strong></th>
+<td class="p-2.5">10 anos para Louça</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Descarga 360º</strong></th>
+<td class="p-2.5">com Descarga 360°</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Possui Jato Plus</strong></th>
+<td class="p-2.5">com Jato Plus</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Tipo de Sifão</strong></th>
+<td class="p-2.5">Sifão Oculto</td>
+</tr>
+<tr class="text-gray-700 [&amp;:nth-child(odd)]:bg-gray-100">
+<th class="w-1/3 p-2.5 text-start"><strong>Nível de Qualidade</strong></th>
+<td class="p-2.5">Excellent</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://leroymerlim.shop/products/14797332545906</id>
+      <title>Default Title</title>
+      <s:price currency="BRL">339.90</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
